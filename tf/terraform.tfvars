@@ -1,0 +1,5 @@
+region          = "europe-west2"
+zone            = "europe-west2-c"
+deployment_name = "firebase"
+project_id      = "coffee-with-iac"
+bucket          = "coffee-with-iac"
